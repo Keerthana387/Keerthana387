@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Keerthana! 👋
 
-<!--
-**Keerthana387/Keerthana387** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate developer with experience in software development, system integration, and automation. I love solving complex problems, optimizing workflows, and building scalable applications.
 
-Here are some ideas to get you started:
+## 💻 Technical Skills
+- **Languages:** C, C++, Java, JavaScript, SQL , Python, HTML/CSS
+- **Databases:** SQLite, MongoDB , MySQL
+- **Frameworks & Tools:** Node.js, React, Express.js, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- **[YADA (Yet Another Diet Assistant)]** – A prototype diet assistant to help users with meal planning.
+- **Automated Examination Timetable Generator** – Optimized scheduling for IIITH exams.
+- **Buy-Sell Platform Website** – An online marketplace for secure transactions.
+- **CLI Authentication System with SQLite** – A command-line-based authentication system.
+
+## 📫 Get in Touch
+- **Email:** keerthanakorlapati387@gmail.com  
+- **LinkedIn:** https://linkedin.com/in/korlapati-keerthana-0720522b4/
+
+Let's connect and collaborate on exciting projects! 🚀
+
