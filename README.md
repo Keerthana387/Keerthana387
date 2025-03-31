@@ -4,7 +4,7 @@
 I'm a passionate developer with experience in software development, system integration, and automation. I love solving complex problems, optimizing workflows, and building scalable applications.
 
 ## 💻 Technical Skills
-- **Languages:** C, C++, Java, JavaScript, SQL , Python, HTML/CSS
+- **Languages:** C, C++, Java, JavaScript, SQL , Python, HTML/CSS, TypeScript
 - **Databases:** SQLite, MongoDB , MySQL
 - **Frameworks & Tools:** Node.js, React, Express.js, Git
 
