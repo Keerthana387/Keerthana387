@@ -9,10 +9,9 @@ I'm a passionate developer with experience in software development, system integ
 - **Frameworks & Tools:** Node.js, React, Express.js, Git
 
 ## 📌 Projects
-- **[YADA (Yet Another Diet Assistant)]** – A prototype diet assistant to help users with meal planning.
-- **Automated Examination Timetable Generator** – Optimized scheduling for IIITH exams.
-- **Buy-Sell Platform Website** – An online marketplace for secure transactions.
-- **CLI Authentication System with SQLite** – A command-line-based authentication system.
+- **Buy-Sell Platform Website** – An online marketplace for IIITH students.
+- **C Shell** – A Unix-like command-line shell implemented in C.
+- **Network File System** – A distributed file system for network-based storage and access.
 
 ## 📫 Get in Touch
 - **Email:** keerthanakorlapati387@gmail.com  
